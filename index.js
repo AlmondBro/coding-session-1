@@ -1,8 +1,8 @@
 // First comment
 
 // 3rd commit
-function getName() {
-    return "Juan David";
+function getNameTwo() {
+    return "Juan David L.";
 }
 
 // 2nd comment
